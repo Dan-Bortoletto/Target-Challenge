@@ -2,7 +2,7 @@
 
 ## Descrição
 
-"Target Challenge" foi desenvolvido como parte de um desafio técnico. O objetivo é apresentar soluções utilizando práticas de desenvolvimento.
+"Target Challenge" foi desenvolvido como parte de um desafio técnico.
 
 ## Tecnologias Utilizadas
 
